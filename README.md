@@ -1,4 +1,4 @@
-# Welcome to Cloud Haiku
+# Welcome to Cloud Haiku -
 
 [Español](README-Spanish.md) | [Français](README-French.md) | [Italiano](README-Italian.md) | [Português](README-Portuguese.md)
 
